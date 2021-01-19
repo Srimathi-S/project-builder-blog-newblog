@@ -15,6 +15,7 @@ public class User {
 		this.date = date;
 	}
 
+
 	public String getEmail() {
 		return email;
 	}
